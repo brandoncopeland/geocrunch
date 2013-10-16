@@ -1,0 +1,25 @@
+{
+  "name": "geocrunch",
+  "version": "0.0.0",
+  "description": "Quick and simple geographic calcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "gis",
+    "haversine",
+    "geometry",
+    "maps"
+  ],
+  "author": "Brandon Copeland <br@ndoncopeland.com>",
+  "license": "",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-jasmine-node": "~0.1.0"
+  },
+  "dependencies": {
+    "underscore": "~1.5.2"
+  }
+}

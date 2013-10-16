@@ -23,4 +23,4 @@ path(arrayOfCoordPairs, options).area(options); // returns area
 
 ### Area Options
 
-'units' - 'sqmeters'. Default 'sqmeters'.
+'units' - 'sqmeters', 'sqmiles', 'acres'. Default 'sqmeters'.

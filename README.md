@@ -19,12 +19,12 @@ path(arrayOfCoordPairs, options).center(); // returns center
 
 ### Path Options
 
-`imBackwards` - Path in format [lat, lng] vs expected [lng, lat]
+`imBackwards` - Path in format `[lat, lng]` vs expected `[lng, lat]`
 
 ### Distance Options
 
-`units` - 'meters', 'feet', 'miles'. Default 'meters'.
+`units` - `meters`, `feet`, `miles`. Default `meters`.
 
 ### Area Options
 
-'units' - 'sqmeters', 'sqmiles', 'acres'. Default 'sqmeters'.
+`units` - `sqmeters`, `sqmiles`, `acres`. Default `sqmeters`.

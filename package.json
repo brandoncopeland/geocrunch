@@ -1,6 +1,6 @@
 {
   "name": "geocrunch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Quick and simple geographic calcs",
   "main": "index.js",
   "scripts": {

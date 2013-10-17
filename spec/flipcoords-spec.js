@@ -1,4 +1,4 @@
-var flipCoords = require('../lib/utils/flipcoords');
+var flipCoords = require('../lib/flipcoords');
 
 describe('flipcoords', function () {
   it('should flip each coordinate pair in array', function () {

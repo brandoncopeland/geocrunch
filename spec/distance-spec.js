@@ -1,4 +1,4 @@
-var path = require('../lib/index').path;
+var path = require('../lib/geocrunch').path;
 
 describe('distance', function () {
   it('should return calculated distance value in meters if no options.units is set', function () {

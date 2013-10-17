@@ -1,4 +1,4 @@
-var coordToCoord = require('../lib/coordtocoord');
+var coordToCoord = require('../lib/utils/coordtocoord');
 
 describe('coordToCoord', function () {
 

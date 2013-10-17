@@ -1,4 +1,4 @@
-var units = require('../lib/units');
+var units = require('../lib/utils/units');
 
 describe('units', function () {
 

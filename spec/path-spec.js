@@ -1,4 +1,4 @@
-var path = require('../lib/index').path;
+var path = require('../lib/geocrunch').path;
 
 describe('path', function () {
 

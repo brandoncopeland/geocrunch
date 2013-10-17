@@ -13,6 +13,10 @@ path(arrayOfCoordPairs, options).distance(options); // returns distance
 path(arrayOfCoordPairs, options).area(options); // returns area
 ```
 
+```javascript
+path(arrayOfCoordPairs, options).center(); // returns center
+```
+
 ### Path Options
 
 `imBackwards` - Path in format [lat, lng] vs expected [lng, lat]

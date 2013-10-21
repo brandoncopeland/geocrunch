@@ -4,7 +4,7 @@ module.exports = function(grunt) {
     jshint: {
       lib: ['lib/**/*.js'],
       options: {
-        jshintrc: 'lib/.jshintrc'
+        jshintrc: '.jshintrc'
       }
     },
     jasmine_node: {
